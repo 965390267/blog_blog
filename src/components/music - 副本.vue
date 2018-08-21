@@ -15,7 +15,7 @@
   
           <div class="timestyle"> <span class="time">01:09 / 04:06</span> <i class="fa fa-clock-o"></i></div>
   
-          <div class="artiststyle"> <i class="fa fa-user"></i> <span class="artist"><span title="9妹">9妹</span></span> <span class="moshi">顺序播放 <i class="fa fa-retweet"></i></span> </div>
+          <div class="artiststyle"> <i class="fa fa-user"></i> <span class="artist"><span title="9妹">是的方法</span></span> <span class="moshi">顺序播放 <i class="fa fa-retweet"></i></span> </div>
   
           <div class="artiststyle"> <i class="fa fa-folder"></i> <span class="artist1"><span title="电音女皇">电音女皇</span></span> <span class="geci">Lrc歌词关闭 <i class="fa fa-check-circle"></i></span> </div>
   
