@@ -1,4 +1,4 @@
-let baseurl='api/'
+let baseurl='http://blog.zangzhihong.com/api/'
 let music=baseurl+'music';
 
 

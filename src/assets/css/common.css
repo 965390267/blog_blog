@@ -1293,7 +1293,9 @@ img {
     color: #FFF
 }
 
-
+.mu-pagination-svg-icon{
+    fill: currentColor;
+}
 
  #pagenextandlast a,
 #pagenextandlast span,

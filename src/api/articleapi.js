@@ -1,4 +1,4 @@
-let baseurl='api/'
+let baseurl='http://blog.zangzhihong.com/api/'
 let getarticle=baseurl+'getarticle';
 let getarticlebyid=baseurl+'getarticlebyid';
 let viewarticlenums=baseurl+'viewarticlenums';
